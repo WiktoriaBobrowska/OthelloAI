@@ -10,7 +10,7 @@ Othello (also known as Reversi) is a classic two-player strategy board game. Thi
 - Optional strong AI mode
 - Move hint system
 - Simple and clean UI
-- 
+
 ## How to Play
 
 - Click on any highlighted tile to place a disc.

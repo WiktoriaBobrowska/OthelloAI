@@ -10,6 +10,14 @@ Othello (also known as Reversi) is a classic two-player strategy board game. Thi
 - Optional strong AI mode
 - Move hint system
 - Simple and clean UI
+- 
+## How to Play
+
+- Click on any highlighted tile to place a disc.
+- Turns alternate between the player and the AI.
+- Use the **New Game** button to reset the board and start new game.
+- Toggle **Strong AI** for increased difficulty.
+- Toggle **Show Hints** to display the best valid moves.
 
 ### Standard AI
 The AI chooses one of the valid moves at random. This mode is fast and provides an easier challenge for beginners.
@@ -27,14 +35,6 @@ Evaluation is based on:
 - Corner control
 - Mobility
 - Board position weight map
-
-## How to Play
-
-- Click on any highlighted tile to place a disc.
-- Turns alternate between the player and the AI.
-- Use the **New Game** button to reset the board.
-- Toggle **Strong AI** for increased difficulty.
-- Toggle **Show Hints** to display legal moves.
 
 ![Game winner](images/Othello_game_winner.png)
 
